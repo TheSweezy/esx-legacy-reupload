@@ -122,11 +122,6 @@ tasks:
     dest: ./tmp/addons/esx_weaponshop
 
   - action: download_github
-    src: https://github.com/esx-framework/esx_shops
-    ref: main
-    dest: ./tmp/addons/esx_shops
-
-  - action: download_github
     src: https://github.com/esx-framework/esx_taxijob
     ref: main
     dest: ./tmp/addons/esx_taxijob
